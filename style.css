@@ -85,6 +85,7 @@ nav ul{
     justify-content: space-between;
     align-items: center;
     border-radius: 33px;
+    border: 1px solid chocolate;
 }
 
 .songItem img{
